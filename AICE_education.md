@@ -1,3 +1,8 @@
+# AICE예상문제 모음
+소개 : https://jh941213.notion.site/AICE-Associate-0fcf6371a7dd4b36bc818bea0c9298cf?pvs=4
+교육 일정https://jh941213.notion.site/91d827c8086746158d8d6694b5b1a462?v=d11a1b449a3e4fb3892ff1dab12b33b0&pvs=4
+
+
 ### 1회차 - 회귀(이적료 예측)  
 문제 : https://colab.research.google.com/drive/1isOlm8O14C-2Ut67KWlyindfBn4y3kw4?usp=sharing  
 해설 : https://colab.research.google.com/drive/1iKTAUYvfuEAg-E16nlJ3WBvfKshXb3z2?usp=sharing  
